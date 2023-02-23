@@ -1,0 +1,2 @@
+# operat-r
+operatörler
